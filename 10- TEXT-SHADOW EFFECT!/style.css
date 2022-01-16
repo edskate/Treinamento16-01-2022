@@ -1,0 +1,38 @@
+body{
+    width: 300px;
+    margin: 10%;
+    padding: 7%;
+    box-shadow: inset 2px 3px 4px 5px;
+
+}
+h1{
+    box-shadow: 2px 3px 3px ;
+    background-color: darkorchid;
+    text-align: center;
+}
+h2{
+    box-shadow: 2px 4px 5px ;
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+h3{
+box-shadow: inset 3px 4px 5px ;
+text-align: center;
+background-color: crimson;
+}
+h4{
+box-shadow: 2px 3px 4px ;
+background-color: blue;
+text-align: center;
+}
+h5{
+box-shadow: 3px 4px 5px ;
+background-color: brown;
+text-align: center;
+   }
+   h6{
+       box-shadow: 2px 3px 4px ;
+       background-color:
+        burlywood;
+        text-align: center;
+   }

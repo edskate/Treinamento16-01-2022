@@ -1,0 +1,33 @@
+body{box-shadow: inset 10px 10px 10px ;
+    width: 300px;
+    text-align: center;
+    }
+    h1{
+        background-color: aquamarine;
+        text-shadow:  2px 3px 4px ;
+    }
+    h2{
+        background-color: darkolivegreen;
+        text-shadow: 2px 3px 4px 5px ;
+    }
+    h3{
+        background-color:tomato ;
+    }
+.box6{
+background-color: darkorchid;
+}
+.box1{
+background-color: cornsilk;
+}
+.box2{
+background-color: chocolate;
+}
+.box3{
+background-color: burlywood;
+}
+.box4{
+background-color: cadetblue;
+}
+.box5{
+    background-color: brown;
+}
