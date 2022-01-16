@@ -1,0 +1,15 @@
+body{
+    width: 300px;
+    height: 300px;
+    margin: 25%;
+}
+h1{
+    background-color: brown;
+    color: antiquewhite;
+}
+p{
+    background-color: cyan;
+    color: black;
+    font-size: 30px;
+ 
+}
