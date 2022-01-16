@@ -1,0 +1,20 @@
+body{
+    width: 300px;
+    height: 400%;
+    margin: 5%;
+    padding: 5%;
+}
+h1{
+    text-shadow: 3px 4px 5px #8585;
+}
+input, type {
+  background-color: aqua;
+  font-size: 110xp;
+
+}
+form{
+    font-size: 180%;
+    background-color: darkcyan;
+    box-shadow: 10px 10px 10px rgba(51, 51, 51, 0.933);
+
+}
